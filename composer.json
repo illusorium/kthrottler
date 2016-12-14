@@ -1,0 +1,8 @@
+{
+    "name": "illusorium/kthrottler",
+    "description": "Kthrottler Kohana module as a composer package",
+    "type": "kohana-module",
+    "require": {
+        "kohana/database": "^3"
+    }
+}
